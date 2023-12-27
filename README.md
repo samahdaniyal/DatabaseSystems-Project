@@ -26,9 +26,10 @@ Database Setup:
 
 Create a new database in Microsoft SQL Server for the salon management system.
 
-**Group Members:** Syeda Samah Daniyal, Rubab Shah, Mahrukh Yousuf
 Execute the SQL script provided in the '.sql' files to create the necessary tables and relationships.
 
 Run the Application:
 
 Execute the main.py application file to launch the Salon Management System.
+
+**Group Members:** Syeda Samah Daniyal, Rubab Shah, Mahrukh Yousuf
